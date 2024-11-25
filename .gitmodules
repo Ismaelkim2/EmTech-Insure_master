@@ -1,3 +1,0 @@
-[submodule "authentication"]
-	path = authentication
-	url = https://github.com/JeraldKirimo2024/authentication_service.git
